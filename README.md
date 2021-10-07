@@ -10,3 +10,6 @@ Projeto feito no módulo do curso Node + Typescript B7Web
 
 ### Para rodar o projeto
 `npm run start-dev`
+
+### Link do projeto funcionando (obs: pode ser temporário)
+https://aqueous-citadel-81220.herokuapp.com/
